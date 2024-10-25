@@ -1,0 +1,2074 @@
+[
+    {
+        "id": 221217,
+        "name": "Напиток El Capulco пивной, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-el-capulco-st",
+        "regular_price": 77.9,
+        "promo_price": null,
+        "brand": "EL CAPULCO"
+    },
+    {
+        "id": 221211,
+        "name": "Напиток Essa пивной ананас-грейпфрут, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-essa-ananasgreypfrut-st",
+        "regular_price": 86.99,
+        "promo_price": 79.9,
+        "brand": "ESSA"
+    },
+    {
+        "id": 221202,
+        "name": "Напиток Essa пивной апельсин-вишня, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-essa-apelsinvishnya-st",
+        "regular_price": 86.99,
+        "promo_price": 79.9,
+        "brand": "ESSA"
+    },
+    {
+        "id": 221200,
+        "name": "Напиток Essa пивной дыня-клубника, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-essa-dynyaklubnika-st",
+        "regular_price": 86.99,
+        "promo_price": 79.9,
+        "brand": "ESSA"
+    },
+    {
+        "id": 221199,
+        "name": "Напиток Essa пивной коколада кокос-манго, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-essa-kokolada-kokosmango-st",
+        "regular_price": 86.99,
+        "promo_price": 79.9,
+        "brand": "ESSA"
+    },
+    {
+        "id": 202136,
+        "name": "Напиток Бочкарев пивной баварский светлый, 1.2л",
+        "url": "https://online.metro-cc.ru/products/12l-piv-nap-bochkarev-bavarskoe-svetloe-pet",
+        "regular_price": 129.0,
+        "promo_price": 109.0,
+        "brand": "БОЧКАРЕВ"
+    },
+    {
+        "id": 247781,
+        "name": "Напиток пивной Essa Limolito, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-essa-limolito-st-247781",
+        "regular_price": 86.99,
+        "promo_price": 79.9,
+        "brand": "ESSA"
+    },
+    {
+        "id": 247783,
+        "name": "Напиток пивной Essa Sun on the beach, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-essa-sun-on-the-beach-st-247783",
+        "regular_price": 86.99,
+        "promo_price": 79.9,
+        "brand": "ESSA"
+    },
+    {
+        "id": 247779,
+        "name": "Напиток пивной Garry Garden Апельсин, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-garry-garden-apelsin-st-247779",
+        "regular_price": 86.9,
+        "promo_price": null,
+        "brand": "GARRY GARDEN"
+    },
+    {
+        "id": 247777,
+        "name": "Напиток пивной Garry Garden Лимон, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-garry-garden-limon-st-247777",
+        "regular_price": 86.9,
+        "promo_price": null,
+        "brand": "GARRY GARDEN"
+    },
+    {
+        "id": 247774,
+        "name": "Напиток пивной Garry Garden Малина, 0.4л",
+        "url": "https://online.metro-cc.ru/products/04l-piv-nap-garry-garden-malina-st-247774",
+        "regular_price": 86.9,
+        "promo_price": null,
+        "brand": "GARRY GARDEN"
+    },
+    {
+        "id": 247516,
+        "name": "Напиток пивной Greenbeat Mix Апельсин-мята, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-piv-nap-greenbeat-mix-apelsinmyata-st-247516",
+        "regular_price": 74.9,
+        "promo_price": 69.9,
+        "brand": "GREENBEAT"
+    },
+    {
+        "id": 247514,
+        "name": "Напиток пивной Greenbeat Mix Манго-маракуйя, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-piv-nap-greenbeat-mix-mangomarakuyya-st-247514",
+        "regular_price": 74.9,
+        "promo_price": 69.9,
+        "brand": "GREENBEAT"
+    },
+    {
+        "id": 208838,
+        "name": "Напиток пивной Grossmeister грейпфрут, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-piv-nap-grossmeister-greypfrut-zhb",
+        "regular_price": 149.0,
+        "promo_price": 134.9,
+        "brand": "GROSSMEISTER"
+    },
+    {
+        "id": 242022,
+        "name": "Напиток пивной Konix Brewery Cherie Cherry, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-konix-brewery-cherie-cherry-045l",
+        "regular_price": 154.0,
+        "promo_price": 127.9,
+        "brand": "KONIX BREWERY"
+    },
+    {
+        "id": 242020,
+        "name": "Напиток пивной Konix Brewery Mon Cher Cassis, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-konix-brewery-mon-cher-cassis-045l",
+        "regular_price": 154.0,
+        "promo_price": 127.9,
+        "brand": "KONIX BREWERY"
+    },
+    {
+        "id": 246217,
+        "name": "Напиток пивной Krone Blanche Biere ж/б, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-krone-blanche-biere-zhb-045l",
+        "regular_price": 88.9,
+        "promo_price": 79.9,
+        "brand": "KRONE BLANCHE"
+    },
+    {
+        "id": 246144,
+        "name": "Напиток пивной Krone Blanche Biere стекло, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-krone-blanche-biere-steklo-045l",
+        "regular_price": 88.9,
+        "promo_price": 79.9,
+        "brand": "KRONE BLANCHE"
+    },
+    {
+        "id": 246140,
+        "name": "Напиток пивной Tony's Garret Hard Ананас, 0.4л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-tonys-garret-hard-ananas-04l-246140",
+        "regular_price": 79.9,
+        "promo_price": 72.9,
+        "brand": "TONY'S GARRET"
+    },
+    {
+        "id": 246210,
+        "name": "Напиток пивной Tony's Garret Hard лимон, 0.4л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-tonys-garret-hard-limon-04l",
+        "regular_price": 79.9,
+        "promo_price": 72.9,
+        "brand": "TONY'S GARRET"
+    },
+    {
+        "id": 246132,
+        "name": "Напиток пивной Tony's Garret Hard малина-персик, 0.4л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-tonys-garret-hard-malina-persik-04l",
+        "regular_price": 79.9,
+        "promo_price": 72.9,
+        "brand": "TONY'S GARRET"
+    },
+    {
+        "id": 246223,
+        "name": "Напиток пивной Tony's Garret Hard черная вишня, 0.4л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-tonys-garret-hard-chernaya-vishnya-04l",
+        "regular_price": 79.9,
+        "promo_price": 72.9,
+        "brand": "TONY'S GARRET"
+    },
+    {
+        "id": 257063,
+        "name": "Напиток пивной Бочкарев Холод и солод, 0.95л",
+        "url": "https://online.metro-cc.ru/products/095l-piv-nap-bochkarev-holod-i-solod-pet-257063",
+        "regular_price": 134.0,
+        "promo_price": 99.9,
+        "brand": "БОЧКАРЕВ"
+    },
+    {
+        "id": 257044,
+        "name": "Напиток пивной Бочкарев живой розлив, 0.95л",
+        "url": "https://online.metro-cc.ru/products/095l-piv-nap-bochkarev-zhivoy-rozliv-pet-257044",
+        "regular_price": 134.0,
+        "promo_price": 99.9,
+        "brand": "БОЧКАРЕВ"
+    },
+    {
+        "id": 263689,
+        "name": "Напиток пивной Горьковская пивоварня 2 become 1, 0.44л",
+        "url": "https://online.metro-cc.ru/products/napitok-pivnoy-gorkovskaya-pivovarnya-2-become-1-044l",
+        "regular_price": 185.0,
+        "promo_price": null,
+        "brand": "ГОРЬКОВСКАЯ ПИВОВАРНЯ"
+    },
+    {
+        "id": 128266,
+        "name": "Напиток пивной Жигули барное манго-маракуйя, 0.45л",
+        "url": "https://online.metro-cc.ru/products/zhiguli-barnoe-mango-marakujya-045-l",
+        "regular_price": 84.9,
+        "promo_price": null,
+        "brand": "ЖИГУЛИ"
+    },
+    {
+        "id": 213478,
+        "name": "Напиток пивной Старый Мельник из бочонка пшеничное, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-piv-nap-staryy-melnik-iz-bochonka-pshenichnoe-st-213478",
+        "regular_price": 77.9,
+        "promo_price": 67.9,
+        "brand": "СТАРЫЙ МЕЛЬНИК"
+    },
+    {
+        "id": 58651,
+        "name": "Пивной напиток Amsterdam Navigator светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-amsterdam-steklo-045-l",
+        "regular_price": 105.0,
+        "promo_price": 79.9,
+        "brand": "AMSTERDAM"
+    },
+    {
+        "id": 645621,
+        "name": "Пивной напиток Amsterdam Navigator светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-amsterdam-zheleznaya-banka-045-l",
+        "regular_price": 105.0,
+        "promo_price": 79.9,
+        "brand": "AMSTERDAM"
+    },
+    {
+        "id": 40920,
+        "name": "Пивной напиток Blanche Biere пшеничное белое светлое, 1л",
+        "url": "https://online.metro-cc.ru/products/art-40920",
+        "regular_price": 165.0,
+        "promo_price": null,
+        "brand": "BLANCHE BIERE"
+    },
+    {
+        "id": 98531,
+        "name": "Пивной напиток Cheshsky kabanchik пшеничное, 1л",
+        "url": "https://online.metro-cc.ru/products/cheshsky-kabanchik-1-l",
+        "regular_price": 145.0,
+        "promo_price": null,
+        "brand": "CHESHSKY KABANCHIK"
+    },
+    {
+        "id": 123743,
+        "name": "Пивной напиток Chester's Вишня, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045-l-nap-chesters-vishnya-st",
+        "regular_price": 109.0,
+        "promo_price": null,
+        "brand": "CHESTER'S"
+    },
+    {
+        "id": 214943,
+        "name": "Пивной напиток Chester's Грейпфрут, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-piv-nap-chesters-greypfrut-st",
+        "regular_price": 109.0,
+        "promo_price": null,
+        "brand": "CHESTER'S"
+    },
+    {
+        "id": 123744,
+        "name": "Пивной напиток Chester's Груша, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045-l-nap-chesters-grusha-st",
+        "regular_price": 109.0,
+        "promo_price": null,
+        "brand": "CHESTER'S"
+    },
+    {
+        "id": 123747,
+        "name": "Пивной напиток Chester's Сладкое Яблоко, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045-l-nap-chesters-yablochnyj-slad-st",
+        "regular_price": 109.0,
+        "promo_price": null,
+        "brand": "CHESTER'S"
+    },
+    {
+        "id": 123746,
+        "name": "Пивной напиток Chester's Яблочный полусухой, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045-l-nap-chesters-yablochnyj-p-suh-st",
+        "regular_price": 109.0,
+        "promo_price": null,
+        "brand": "CHESTER'S"
+    },
+    {
+        "id": 75088,
+        "name": "Пивной напиток Doctor Diesel Hot Mix вишня персик, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-drdiesel-hot-mix-vishnya-persik-steklo-045-l",
+        "regular_price": 79.9,
+        "promo_price": 70.9,
+        "brand": "DOCTOR DIESEL"
+    },
+    {
+        "id": 75068,
+        "name": "Пивной напиток Doctor Diesel Mild Mix манго красный апельсин, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-drdiesel-mild-mix-mango-krasnyj-apelsin-steklo-045-l",
+        "regular_price": 79.9,
+        "promo_price": 70.9,
+        "brand": "DOCTOR DIESEL"
+    },
+    {
+        "id": 438059,
+        "name": "Пивной напиток Redd's 0.33л",
+        "url": "https://online.metro-cc.ru/products/napitok-redds-033-l-438059",
+        "regular_price": 88.9,
+        "promo_price": 75.9,
+        "brand": "REDD'S"
+    },
+    {
+        "id": 74857,
+        "name": "Пивной напиток Горьковская пивоварня Манго втроем светлый, 0.44л",
+        "url": "https://online.metro-cc.ru/products/mango-v-troem-pshenichnoe-5-044-l",
+        "regular_price": 99.9,
+        "promo_price": null,
+        "brand": "ГОРЬКОВСКАЯ ПИВОВАРНЯ"
+    },
+    {
+        "id": 645841,
+        "name": "Пиво Arcobrau Mooser Liesl светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/arcobrau-mooser-liesl-v-steklyannoj-butylke-05-l",
+        "regular_price": 259.0,
+        "promo_price": null,
+        "brand": "MOOSER LIESL"
+    },
+    {
+        "id": 135284,
+        "name": "Пиво Arcobrau Mooser Liesl, 0.33л",
+        "url": "https://online.metro-cc.ru/products/033l-pivo-arkobroy-mozer-lizel-st",
+        "regular_price": 219.0,
+        "promo_price": 209.0,
+        "brand": "ARCOBRAU"
+    },
+    {
+        "id": 74875,
+        "name": "Пиво Asahi Super Dry, 0.33л",
+        "url": "https://online.metro-cc.ru/products/art-74875",
+        "regular_price": 194.0,
+        "promo_price": 179.0,
+        "brand": "ASAHI"
+    },
+    {
+        "id": 502813,
+        "name": "Пиво Bakalar Dry Hopped Lager светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-bakalar-holodnogo-ohmeleniya-05-l",
+        "regular_price": 209.0,
+        "promo_price": null,
+        "brand": "BAKALAR"
+    },
+    {
+        "id": 420406,
+        "name": "Пиво Bakalar Pale Lager светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/bakalar-svetloe-05-l",
+        "regular_price": 209.0,
+        "promo_price": null,
+        "brand": "BAKALAR"
+    },
+    {
+        "id": 420380,
+        "name": "Пиво Bakalar Premium Lager, 0.5л",
+        "url": "https://online.metro-cc.ru/products/bakalar-svetloe-tyomnoe-05-l",
+        "regular_price": 209.0,
+        "promo_price": null,
+        "brand": "BAKALAR"
+    },
+    {
+        "id": 246405,
+        "name": "Пиво Bakalar холодного охмеления, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-bakalar-holodnogo-ohmeleniya-05l-246405",
+        "regular_price": 179.0,
+        "promo_price": 174.0,
+        "brand": "BAKALAR"
+    },
+    {
+        "id": 242054,
+        "name": "Пиво Bayerns Stammtisch светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-bayerns-stammtisch-svetloe-05l",
+        "regular_price": 299.0,
+        "promo_price": null,
+        "brand": "BAYERNS STAMMTISCH"
+    },
+    {
+        "id": 659936,
+        "name": "Пиво Birra Moretti светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/birra-moretti-zh-b-05-l",
+        "regular_price": 229.0,
+        "promo_price": 209.0,
+        "brand": "BIRRA MORETTI"
+    },
+    {
+        "id": 463788,
+        "name": "Пиво Bitburger Premium светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/bitburger-premium-svetloe-48-zh-b-05-l",
+        "regular_price": 196.0,
+        "promo_price": null,
+        "brand": "BITBURGER"
+    },
+    {
+        "id": 120857,
+        "name": "Пиво Bud Light, 0.44л",
+        "url": "https://online.metro-cc.ru/products/044-l-bad-lajt-st",
+        "regular_price": 89.9,
+        "promo_price": 80.9,
+        "brand": "BUD"
+    },
+    {
+        "id": 120853,
+        "name": "Пиво Bud светлое, 0.44л",
+        "url": "https://online.metro-cc.ru/products/044-l-bad-st",
+        "regular_price": 84.9,
+        "promo_price": null,
+        "brand": "BUD"
+    },
+    {
+        "id": 633391,
+        "name": "Пиво Bud светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/svetloe-bud-045-l",
+        "regular_price": 84.9,
+        "promo_price": null,
+        "brand": "BUD"
+    },
+    {
+        "id": 246418,
+        "name": "Пиво Cernovar светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-cernovar-svetloe-05l-246418",
+        "regular_price": 199.0,
+        "promo_price": null,
+        "brand": "CERNOVAR"
+    },
+    {
+        "id": 420382,
+        "name": "Пиво Cernovar светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/chernovar-svetloe-zh-b-05-l",
+        "regular_price": 179.0,
+        "promo_price": 169.0,
+        "brand": "CERNOVAR"
+    },
+    {
+        "id": 246414,
+        "name": "Пиво Cernovar светлое, 5л",
+        "url": "https://online.metro-cc.ru/products/pivo-cernovar-svetloe-5l",
+        "regular_price": 2299.0,
+        "promo_price": null,
+        "brand": "CERNOVAR"
+    },
+    {
+        "id": 245313,
+        "name": "Пиво Cheerday Gold светлое, 1л",
+        "url": "https://online.metro-cc.ru/products/pivo-cheerday-gold-svetloe-1l",
+        "regular_price": 419.0,
+        "promo_price": null,
+        "brand": "CHEERDAY"
+    },
+    {
+        "id": 215140,
+        "name": "Пиво Corona Extra светлое, 0.355л",
+        "url": "https://online.metro-cc.ru/products/0355l-pivo-corona-extra-st-215140",
+        "regular_price": 169.0,
+        "promo_price": 129.0,
+        "brand": "CORONA EXTRA"
+    },
+    {
+        "id": 208749,
+        "name": "Пиво Dreamteam Brew Port Pilsner светлое, 0.33л",
+        "url": "https://online.metro-cc.ru/products/033l-pivo-dreamteam-brew-port-pilsner-svetloe-st",
+        "regular_price": 156.0,
+        "promo_price": null,
+        "brand": "DREAMTEAM BREW"
+    },
+    {
+        "id": 127809,
+        "name": "Пиво Dutch Windmill светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/dutch-windmill-svetloe-05-l",
+        "regular_price": 139.0,
+        "promo_price": null,
+        "brand": "DUTCH WINDMILL"
+    },
+    {
+        "id": 128282,
+        "name": "Пиво Eboshi Happoshu, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05-l-pivo-ibosi-happosyu-zhb-128282",
+        "regular_price": 152.0,
+        "promo_price": 145.0,
+        "brand": "EBOSHI"
+    },
+    {
+        "id": 128283,
+        "name": "Пиво Eboshi Happoshu, 0.5л x 24 шт",
+        "url": "https://online.metro-cc.ru/products/05-l-pivo-ibosi-happosyu-zhb-128283",
+        "regular_price": 3648.0,
+        "promo_price": 3480.0,
+        "brand": "EBOSHI"
+    },
+    {
+        "id": 213480,
+        "name": "Пиво Eboshi светлое, 0.33л",
+        "url": "https://online.metro-cc.ru/products/033l-pivo-eboshi-st",
+        "regular_price": 143.0,
+        "promo_price": 134.9,
+        "brand": "EBOSHI"
+    },
+    {
+        "id": 220122,
+        "name": "Пиво Eboshi светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-eboshi-svetloe-filtr-past-zhb",
+        "regular_price": 146.0,
+        "promo_price": 139.0,
+        "brand": "EBOSHI"
+    },
+    {
+        "id": 98346,
+        "name": "Пиво Edelherb Kulmbacher Pils, 5л",
+        "url": "https://online.metro-cc.ru/products/kulmbacher-pils-bochka-5-l",
+        "regular_price": 2069.0,
+        "promo_price": null,
+        "brand": "EDELHERB"
+    },
+    {
+        "id": 593359,
+        "name": "Пиво Efes Pilsner светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/efes-pilsener-v-butylke-045-l",
+        "regular_price": 76.9,
+        "promo_price": null,
+        "brand": "EFES"
+    },
+    {
+        "id": 593360,
+        "name": "Пиво Efes Pilsner светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/art-593360",
+        "regular_price": 77.9,
+        "promo_price": null,
+        "brand": "EFES"
+    },
+    {
+        "id": 201408,
+        "name": "Пиво Einsiedler Pilsner, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-einsiedler-pilsener-st",
+        "regular_price": 189.0,
+        "promo_price": null,
+        "brand": "EINSIEDLER"
+    },
+    {
+        "id": 201398,
+        "name": "Пиво Einsiedler Weissbeir, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-einsiedler-weissbier-st",
+        "regular_price": 189.0,
+        "promo_price": null,
+        "brand": "EINSIEDLER"
+    },
+    {
+        "id": 247684,
+        "name": "Пиво Erdinger Helles, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-erdinger-helles-zhb",
+        "regular_price": 219.0,
+        "promo_price": 189.0,
+        "brand": "ERDINGER"
+    },
+    {
+        "id": 619586,
+        "name": "Пиво Estrella Damm светлое, 0.33л",
+        "url": "https://online.metro-cc.ru/products/estrella-damm-v-steklyannoj-butylke-033-l",
+        "regular_price": 149.0,
+        "promo_price": null,
+        "brand": "ESTRELLA"
+    },
+    {
+        "id": 514680,
+        "name": "Пиво Estrella Damm светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/estrella-damm-zh-b-05-l",
+        "regular_price": 163.0,
+        "promo_price": null,
+        "brand": "ESTRELLA"
+    },
+    {
+        "id": 215203,
+        "name": "Пиво Estrella Damm, 0.33л",
+        "url": "https://online.metro-cc.ru/products/033l-pivo-estrella-damm-zhb",
+        "regular_price": 122.0,
+        "promo_price": null,
+        "brand": "ESTRELLA"
+    },
+    {
+        "id": 117816,
+        "name": "Пиво Flensburger Gold, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05-l-flensburger-gold-st",
+        "regular_price": 309.0,
+        "promo_price": null,
+        "brand": "FLENSBURGER"
+    },
+    {
+        "id": 218614,
+        "name": "Пиво Flensburger Pilsener светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-flensburger-pilsener-svetloe-05l",
+        "regular_price": 309.0,
+        "promo_price": null,
+        "brand": "FLENSBURGER"
+    },
+    {
+        "id": 544022,
+        "name": "Пиво Flensburger Pilsener светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-flensburger-lager-zheleznaya-banka-05-l",
+        "regular_price": 194.0,
+        "promo_price": null,
+        "brand": "FLENSBURGER"
+    },
+    {
+        "id": 134191,
+        "name": "Пиво Franziskaner Премиум, 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-franziskaner-premium-045l-134191",
+        "regular_price": 109.0,
+        "promo_price": 94.9,
+        "brand": "FRANZISKANER"
+    },
+    {
+        "id": 134172,
+        "name": "Пиво Franziskaner Премиум, 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-franziskaner-premium-045l-134172",
+        "regular_price": 109.0,
+        "promo_price": 94.9,
+        "brand": "FRANZISKANER"
+    },
+    {
+        "id": 223730,
+        "name": "Пиво Gansburg Original, 1.15л",
+        "url": "https://online.metro-cc.ru/products/115l-pivo-gansburg-oridzhinal-pet-223730",
+        "regular_price": 159.0,
+        "promo_price": null,
+        "brand": "GANSBURG"
+    },
+    {
+        "id": 221699,
+        "name": "Пиво Garneli фильтрованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-garneli-filtr-47-zhb",
+        "regular_price": 149.0,
+        "promo_price": 129.0,
+        "brand": "GARNELI"
+    },
+    {
+        "id": 258624,
+        "name": "Пиво Gisbelle Craft Ананас пшеничное, 0.88л",
+        "url": "https://online.metro-cc.ru/products/088l-piv-nap-gisbelle-kraft-ananas-zhb-258624",
+        "regular_price": 599.0,
+        "promo_price": 479.0,
+        "brand": "GISBELLE"
+    },
+    {
+        "id": 258620,
+        "name": "Пиво Gisbelle Craft Вишневое пшеничное, 0.88л",
+        "url": "https://online.metro-cc.ru/products/088l-piv-nap-gisbelle-kraft-vishnya-zhb-258620",
+        "regular_price": 599.0,
+        "promo_price": 479.0,
+        "brand": "GISBELLE"
+    },
+    {
+        "id": 258622,
+        "name": "Пиво Gisbelle Craft Маракуйя пшеничное, 0.88л",
+        "url": "https://online.metro-cc.ru/products/088l-piv-nap-gisbelle-kraft-marakuyya-zhb-258622",
+        "regular_price": 599.0,
+        "promo_price": 479.0,
+        "brand": "GISBELLE"
+    },
+    {
+        "id": 245314,
+        "name": "Пиво Gisbelle Light Крафт светлое, 0.639л",
+        "url": "https://online.metro-cc.ru/products/pivo-gisbelle-light-kraft-svetloe-0639l",
+        "regular_price": 399.0,
+        "promo_price": null,
+        "brand": "GISBELLE"
+    },
+    {
+        "id": 206310,
+        "name": "Пиво Gletcher Heidegger Hell, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-gletcher-heidegger-hell-st",
+        "regular_price": 152.0,
+        "promo_price": null,
+        "brand": "GLETCHER"
+    },
+    {
+        "id": 217849,
+        "name": "Пиво Gold Mine Beer светлое, 1.15л",
+        "url": "https://online.metro-cc.ru/products/115l-pivo-gold-mine-svetloe-pet",
+        "regular_price": 114.0,
+        "promo_price": null,
+        "brand": "GOLD MINE BEER"
+    },
+    {
+        "id": 247936,
+        "name": "Пиво Gosser Gold, 0.43л",
+        "url": "https://online.metro-cc.ru/products/043l-pivo-gyosser-gold-zhb-247936",
+        "regular_price": 66.9,
+        "promo_price": null,
+        "brand": "GOSSER"
+    },
+    {
+        "id": 123195,
+        "name": "Пиво Gosser светлое, 0.43л",
+        "url": "https://online.metro-cc.ru/products/043-l-gesser-sv-zh-b",
+        "regular_price": 64.9,
+        "promo_price": 59.9,
+        "brand": "GOSSER"
+    },
+    {
+        "id": 232739,
+        "name": "Пиво Gosser светлое, 1.2л",
+        "url": "https://online.metro-cc.ru/products/12l-pivo-gosser-svetloe-pet-232739",
+        "regular_price": 129.0,
+        "promo_price": 114.9,
+        "brand": "GOSSER"
+    },
+    {
+        "id": 246221,
+        "name": "Пиво Greenbeat ж/б, 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-greenbeat-zhb-045l",
+        "regular_price": 74.9,
+        "promo_price": 67.9,
+        "brand": "GREENBEAT"
+    },
+    {
+        "id": 246219,
+        "name": "Пиво Greenbeat стекло, 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-greenbeat-steklo-045l",
+        "regular_price": 74.9,
+        "promo_price": 67.9,
+        "brand": "GREENBEAT"
+    },
+    {
+        "id": 648015,
+        "name": "Пиво Grolsch Premium Pilsner светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/grolsch-premium-lager-zheleznaya-banka-05-l",
+        "regular_price": 199.0,
+        "promo_price": 189.0,
+        "brand": "GROLSCH"
+    },
+    {
+        "id": 74918,
+        "name": "Пиво Grossmeister Premium Beer светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/grossmeister-premium-beer-v-zheleznoj-banke-05-l",
+        "regular_price": 149.0,
+        "promo_price": 139.9,
+        "brand": "GROSSMEISTER"
+    },
+    {
+        "id": 140745,
+        "name": "Пиво Grotwerg Вайсбир, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-grotverg-vaysbir-zhb-140745",
+        "regular_price": 149.0,
+        "promo_price": 134.9,
+        "brand": "GROTWERG"
+    },
+    {
+        "id": 435728,
+        "name": "Пиво Grotwerg светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-grotwerg-lager-zheleznaya-banka-05-l",
+        "regular_price": 149.0,
+        "promo_price": 134.9,
+        "brand": "GROTWERG"
+    },
+    {
+        "id": 519504,
+        "name": "Пиво Grotwerg светлое, 5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-grotwerg-keg-5l",
+        "regular_price": 2199.0,
+        "promo_price": null,
+        "brand": "GROTWERG"
+    },
+    {
+        "id": 243956,
+        "name": "Пиво Harbin Premium Lager светлое, 0.33л",
+        "url": "https://online.metro-cc.ru/products/033l-pivo-harbin-premium-lager-sv-55-st-243956",
+        "regular_price": 129.0,
+        "promo_price": null,
+        "brand": "HARBIN"
+    },
+    {
+        "id": 243954,
+        "name": "Пиво Harbin Premium Lager светлое, 0.61л",
+        "url": "https://online.metro-cc.ru/products/061l-pivo-harbin-premium-lager-sv-50-st-243954",
+        "regular_price": 229.0,
+        "promo_price": null,
+        "brand": "HARBIN"
+    },
+    {
+        "id": 208366,
+        "name": "Пиво Harbin пшеничное светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-harbin-pshenichnoe-svetloe-st",
+        "regular_price": 219.0,
+        "promo_price": null,
+        "brand": "HARBIN"
+    },
+    {
+        "id": 243972,
+        "name": "Пиво Harbin светлое, 0.61л",
+        "url": "https://online.metro-cc.ru/products/061l-pivo-harbin-svetloe-36-st-243972",
+        "regular_price": 209.0,
+        "promo_price": null,
+        "brand": "HARBIN"
+    },
+    {
+        "id": 501082,
+        "name": "Пиво Heineken светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/heineken-svetloe-zh-b-05-l",
+        "regular_price": 209.0,
+        "promo_price": 189.0,
+        "brand": "HEINEKEN"
+    },
+    {
+        "id": 562560,
+        "name": "Пиво Hofbrau Original светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/hofbrau-original-05-l",
+        "regular_price": 294.0,
+        "promo_price": null,
+        "brand": "HOFBRAU"
+    },
+    {
+        "id": 635979,
+        "name": "Пиво Hollandia светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/hollandia-045-l",
+        "regular_price": 74.9,
+        "promo_price": 59.9,
+        "brand": "HOLLANDIA"
+    },
+    {
+        "id": 213554,
+        "name": "Пиво Holsten Pilsner, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-holsten-pilzner-st",
+        "regular_price": 84.9,
+        "promo_price": 74.9,
+        "brand": "HOLSTEN"
+    },
+    {
+        "id": 249130,
+        "name": "Пиво Holsten Weissbier, 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-holsten-weissbier-045l-249130",
+        "regular_price": 81.9,
+        "promo_price": null,
+        "brand": "HOLSTEN"
+    },
+    {
+        "id": 142676,
+        "name": "Пиво Kaiserdom Pilsener светлое 4.9%, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-kaiserdom-pilsener-svetloe-4-9-0-5l",
+        "regular_price": 169.0,
+        "promo_price": null,
+        "brand": "KAISERDOM"
+    },
+    {
+        "id": 104691,
+        "name": "Пиво Kilikia Original светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-kilikia-originalnoe-05-l",
+        "regular_price": 149.0,
+        "promo_price": null,
+        "brand": "KILIKIA"
+    },
+    {
+        "id": 242019,
+        "name": "Пиво Konix Brewery Munich Helles, 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-konix-brewery-munich-helles-045l",
+        "regular_price": 105.0,
+        "promo_price": null,
+        "brand": "KONIX BREWERY"
+    },
+    {
+        "id": 418982,
+        "name": "Пиво Krombacher Pils светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/krombacher-zh-b-05-l",
+        "regular_price": 199.0,
+        "promo_price": null,
+        "brand": "KROMBACHER"
+    },
+    {
+        "id": 123199,
+        "name": "Пиво Krusovice светлое, 0.43л",
+        "url": "https://online.metro-cc.ru/products/043-l-krushovice-sv-zh-b",
+        "regular_price": 78.9,
+        "promo_price": 70.9,
+        "brand": "KRUSOVICE"
+    },
+    {
+        "id": 46807,
+        "name": "Пиво Krusovice светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/krusovice-svetloe-steklo-045-l",
+        "regular_price": 78.9,
+        "promo_price": 70.9,
+        "brand": "KRUSOVICE"
+    },
+    {
+        "id": 262675,
+        "name": "Пиво Kulmbacher Edelherb Premium Pils, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-kulmbacher-edelherb-premium-pils-st",
+        "regular_price": 219.0,
+        "promo_price": null,
+        "brand": "KULMBACHER"
+    },
+    {
+        "id": 262677,
+        "name": "Пиво Kulmbacher Lager Hell, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-kulmbacher-lager-hell-st",
+        "regular_price": 219.0,
+        "promo_price": null,
+        "brand": "KULMBACHER"
+    },
+    {
+        "id": 239412,
+        "name": "Пиво Kurpfalz Brau Helles, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-kurpfalz-broy-helles-st-239412",
+        "regular_price": 209.0,
+        "promo_price": null,
+        "brand": "KURPFALZ"
+    },
+    {
+        "id": 262679,
+        "name": "Пиво Kurpfalz Brau Helles, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-kurpfalz-brau-helles-zhb",
+        "regular_price": 199.0,
+        "promo_price": null,
+        "brand": "KURPFALZ"
+    },
+    {
+        "id": 262681,
+        "name": "Пиво LAV Premium, 1.25л",
+        "url": "https://online.metro-cc.ru/products/125l-pivo-lav-premium-pet-262681",
+        "regular_price": 119.0,
+        "promo_price": 99.9,
+        "brand": "LAV"
+    },
+    {
+        "id": 201412,
+        "name": "Пиво Lev Czech Lion, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-lev-czech-lion-st",
+        "regular_price": 185.0,
+        "promo_price": null,
+        "brand": "LEV CZECH"
+    },
+    {
+        "id": 116544,
+        "name": "Пиво Liebenbrau Helles, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05-l-pivo-libenbroj-hel-st",
+        "regular_price": 209.0,
+        "promo_price": null,
+        "brand": "LIEBENBRAU"
+    },
+    {
+        "id": 98340,
+        "name": "Пиво Liebenbrau Helles, 0.5л",
+        "url": "https://online.metro-cc.ru/products/liebenbrau-helles-05-l",
+        "regular_price": 159.0,
+        "promo_price": 144.0,
+        "brand": "LIEBENBRAU"
+    },
+    {
+        "id": 122250,
+        "name": "Пиво Lowenbrau крепкое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045-l-lovenbrau-krepkoe-zh-b",
+        "regular_price": 83.9,
+        "promo_price": null,
+        "brand": "LOWENBRAU"
+    },
+    {
+        "id": 122249,
+        "name": "Пиво Lowenbrau крепкое, 1.3л",
+        "url": "https://online.metro-cc.ru/products/13l-lovenbrau-krepkoe-pet",
+        "regular_price": 159.0,
+        "promo_price": null,
+        "brand": "LOWENBRAU"
+    },
+    {
+        "id": 202106,
+        "name": "Пиво Lowenbrau нефильтрованное, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-lowenbrau-nefiltrovannoe-but",
+        "regular_price": 79.9,
+        "promo_price": 69.9,
+        "brand": "LOWENBRAU"
+    },
+    {
+        "id": 133684,
+        "name": "Пиво Lowenbrau нефильтрованное, 1.3л",
+        "url": "https://online.metro-cc.ru/products/pivo-lowenbrau-nefiltrovannoe-13l-133684",
+        "regular_price": 159.0,
+        "promo_price": null,
+        "brand": "LOWENBRAU"
+    },
+    {
+        "id": 75786,
+        "name": "Пиво Lowenbrau светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/svetloe-lowenbrau-steklo-045-l",
+        "regular_price": 79.9,
+        "promo_price": 69.9,
+        "brand": "LOWENBRAU"
+    },
+    {
+        "id": 632978,
+        "name": "Пиво Lowenbrau светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/lowenbrau-zheleznaya-banka-045-l",
+        "regular_price": 99.9,
+        "promo_price": null,
+        "brand": "LOWENBRAU"
+    },
+    {
+        "id": 113691,
+        "name": "Пиво Lowenbrau светлое, 1.3л",
+        "url": "https://online.metro-cc.ru/products/pivo-lowenbrau-pet-13l-113691",
+        "regular_price": 159.0,
+        "promo_price": null,
+        "brand": "LOWENBRAU"
+    },
+    {
+        "id": 238413,
+        "name": "Пиво Manneken Pils светлое фильтрованное, 0.33л",
+        "url": "https://online.metro-cc.ru/products/pivo-manneken-pils-svetloe-filtrovannoe-033l",
+        "regular_price": 249.0,
+        "promo_price": null,
+        "brand": "MANNEKEN PILS"
+    },
+    {
+        "id": 226993,
+        "name": "Пиво Monchshof Weissbier светлое, 5л",
+        "url": "https://online.metro-cc.ru/products/5l-pivo-monchshof-weissbier-sv-zhb",
+        "regular_price": 1999.0,
+        "promo_price": null,
+        "brand": "MONCHSHOF"
+    },
+    {
+        "id": 140441,
+        "name": "Пиво New Riga's Brewery Grant Wood Apa, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-grant-vud-apa-zhb",
+        "regular_price": 149.0,
+        "promo_price": null,
+        "brand": "GRANT WOOD"
+    },
+    {
+        "id": 74912,
+        "name": "Пиво Otto Von Schrodder Premium Lager светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/otto-von-schrodder-premium-lager-svetloe-v-zheleznoj-banke-05-l",
+        "regular_price": 149.0,
+        "promo_price": 129.0,
+        "brand": "OTTO VON SCHRODDER"
+    },
+    {
+        "id": 227463,
+        "name": "Пиво Pabst Blue Ribbon Best Select, 0.44л",
+        "url": "https://online.metro-cc.ru/products/pivo-pabst-blue-ribbon-best-select-044l",
+        "regular_price": 76.9,
+        "promo_price": null,
+        "brand": "PABST BLUE RIBBON"
+    },
+    {
+        "id": 450069,
+        "name": "Пиво Paulaner Original Munchner, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-paulaner-original-zheleznaya-banka-05-l",
+        "regular_price": 262.0,
+        "promo_price": null,
+        "brand": "PAULANER"
+    },
+    {
+        "id": 208797,
+        "name": "Пиво Peroni Nastro Azzurro, 0.33л",
+        "url": "https://online.metro-cc.ru/products/033l-pivo-peroni-st",
+        "regular_price": 199.0,
+        "promo_price": 189.0,
+        "brand": "PERONI"
+    },
+    {
+        "id": 42181,
+        "name": "Пиво Peterhof Живое светлое нефильтрованное, 1л",
+        "url": "https://online.metro-cc.ru/products/peterhof-zhivoe-pet-1l",
+        "regular_price": 145.0,
+        "promo_price": null,
+        "brand": "PETERHOF"
+    },
+    {
+        "id": 374530,
+        "name": "Пиво Pilsner Urquell светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-pilsner-urquell-zheleznaya-banka-05-l",
+        "regular_price": 199.0,
+        "promo_price": null,
+        "brand": "PILSNER URQUELL"
+    },
+    {
+        "id": 245293,
+        "name": "Пиво Platina Latina 0.4л",
+        "url": "https://online.metro-cc.ru/products/pivo-platina-latina-045l",
+        "regular_price": 68.9,
+        "promo_price": 64.9,
+        "brand": "PLATINA LATINA"
+    },
+    {
+        "id": 562587,
+        "name": "Пиво Praga Premium Pils светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/praga-premium-imported-05-l",
+        "regular_price": 155.0,
+        "promo_price": null,
+        "brand": "PRAGA"
+    },
+    {
+        "id": 138781,
+        "name": "Пиво Prazacka Zlata светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-prazhechka-zlata-svetloe-zhb-138781",
+        "regular_price": 159.0,
+        "promo_price": 149.0,
+        "brand": "PRAZACKA"
+    },
+    {
+        "id": 354573,
+        "name": "Пиво Prazacka светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/prazecka-05-l",
+        "regular_price": 199.0,
+        "promo_price": 194.0,
+        "brand": "PRAZACKA"
+    },
+    {
+        "id": 419979,
+        "name": "Пиво Prazacka светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/prazacka-zh-b-05-l",
+        "regular_price": 165.0,
+        "promo_price": 149.9,
+        "brand": "PRAZACKA"
+    },
+    {
+        "id": 282407,
+        "name": "Пиво Prazacka светлое, 5л",
+        "url": "https://online.metro-cc.ru/products/prazacka-lager-keg-5l",
+        "regular_price": 2249.0,
+        "promo_price": null,
+        "brand": "PRAZACKA"
+    },
+    {
+        "id": 518426,
+        "name": "Пиво Radeberger Pilsner светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/radeberger-05-l",
+        "regular_price": 189.0,
+        "promo_price": null,
+        "brand": "RADEBERGER"
+    },
+    {
+        "id": 140435,
+        "name": "Пиво Run Forest 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-ran-forrest-zhb",
+        "regular_price": 129.0,
+        "promo_price": null,
+        "brand": "RUN FOREST"
+    },
+    {
+        "id": 134874,
+        "name": "Пиво Schneider's Bayerisch Hell светлое фильтрованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-filtrovannoe-schneiders-bayerisch-hell-05-l",
+        "regular_price": 219.0,
+        "promo_price": null,
+        "brand": "SCHNEIDER'S"
+    },
+    {
+        "id": 134875,
+        "name": "Пиво Schneider's Bayerisch Hell светлое фильтрованное, 0.5л x 20 шт",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-sv-f-nep-shnayders-bayrish-hel-st",
+        "regular_price": 4380.0,
+        "promo_price": null,
+        "brand": "SCHNEIDER'S"
+    },
+    {
+        "id": 134851,
+        "name": "Пиво Schnitzlbaumer Edel-Pils, 0.5л",
+        "url": "https://online.metro-cc.ru/products/schnitzlbaumer-edel-pils-05-l",
+        "regular_price": 299.0,
+        "promo_price": null,
+        "brand": "SCHNITZLBAUMER"
+    },
+    {
+        "id": 118301,
+        "name": "Пиво Schnitzlbaumer Lagerbier Hell, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05-l-shnicelbaum-lagerbir-hel-st",
+        "regular_price": 299.0,
+        "promo_price": null,
+        "brand": "SCHNITZLBAUMER"
+    },
+    {
+        "id": 247699,
+        "name": "Пиво Sky Dragon 1л",
+        "url": "https://online.metro-cc.ru/products/1l-pivo-sky-dragon-zhb",
+        "regular_price": 459.0,
+        "promo_price": 339.0,
+        "brand": "SKY DRAGON"
+    },
+    {
+        "id": 134164,
+        "name": "Пиво Spaten 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-spaten-045l-134164",
+        "regular_price": 125.0,
+        "promo_price": 114.9,
+        "brand": "SPATEN"
+    },
+    {
+        "id": 134157,
+        "name": "Пиво Spaten 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-spaten-045l-134157",
+        "regular_price": 125.0,
+        "promo_price": 114.9,
+        "brand": "SPATEN"
+    },
+    {
+        "id": 216821,
+        "name": "Пиво Stanley Cooper 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-stanley-cooper-05l",
+        "regular_price": 145.0,
+        "promo_price": 129.0,
+        "brand": "STANLEY COOPER"
+    },
+    {
+        "id": 110861,
+        "name": "Пиво Staroceske 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-staroceske-zh-b-05-l",
+        "regular_price": 149.0,
+        "promo_price": 139.0,
+        "brand": "STAROCESKE"
+    },
+    {
+        "id": 138044,
+        "name": "Пиво Staroceske Tradicni светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-staroceske-tradicni-svetloe-05l-138044",
+        "regular_price": 189.0,
+        "promo_price": 179.0,
+        "brand": "STAROCESKE"
+    },
+    {
+        "id": 203370,
+        "name": "Пиво Steinbrau Heffeizen светлое нефильтрованное пастеризованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-steinbrau-hefeweizen-sv-nef-p-st",
+        "regular_price": 199.0,
+        "promo_price": null,
+        "brand": "STEINBRAU"
+    },
+    {
+        "id": 203369,
+        "name": "Пиво Steinbrau Helles светлое фильтрованное пастеризованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-steinbrau-helles-svetl-filtrov-paster-st",
+        "regular_price": 199.0,
+        "promo_price": null,
+        "brand": "STEINBRAU"
+    },
+    {
+        "id": 239394,
+        "name": "Пиво Steinbrau Pilsener, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-steinbrau-pilsener-st-239394",
+        "regular_price": 209.0,
+        "promo_price": null,
+        "brand": "STEINBRAU"
+    },
+    {
+        "id": 114475,
+        "name": "Пиво Stella Artois светлое, 0.44л",
+        "url": "https://online.metro-cc.ru/products/044-l-pivo-stella-artua-st",
+        "regular_price": 99.9,
+        "promo_price": null,
+        "brand": "STELLA ARTOIS"
+    },
+    {
+        "id": 634307,
+        "name": "Пиво Stella Artois светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/stella-artois-zheleznaya-banka-045-l-634307",
+        "regular_price": 99.9,
+        "promo_price": null,
+        "brand": "STELLA ARTOIS"
+    },
+    {
+        "id": 564302,
+        "name": "Пиво Stiegl Goldbrau светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/stiegl-goldbrau-05-l",
+        "regular_price": 189.0,
+        "promo_price": null,
+        "brand": "STIEGL"
+    },
+    {
+        "id": 213609,
+        "name": "Пиво Stiegl Goldbrau, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-stiegl-goldbrau-st",
+        "regular_price": 251.0,
+        "promo_price": null,
+        "brand": "STIEGL"
+    },
+    {
+        "id": 227464,
+        "name": "Пиво Stiegl Hell, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-stiegl-hell-zhb",
+        "regular_price": 189.0,
+        "promo_price": null,
+        "brand": "STIEGL"
+    },
+    {
+        "id": 222888,
+        "name": "Пиво Taiwan beer Gold Medal светлое, 0.33л",
+        "url": "https://online.metro-cc.ru/products/033l-pivo-taiwan-beer-gold-medal-sv-zhb",
+        "regular_price": 119.0,
+        "promo_price": null,
+        "brand": "TAIWAN BEER"
+    },
+    {
+        "id": 222889,
+        "name": "Пиво Taiwan beer Gold Medal светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-taiwan-beer-gold-medal-sv-zhb",
+        "regular_price": 169.0,
+        "promo_price": null,
+        "brand": "TAIWAN BEER"
+    },
+    {
+        "id": 891,
+        "name": "Пиво Thron светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/thron-lager-svetloe-v-zheleznoj-banke-05-l",
+        "regular_price": 145.0,
+        "promo_price": 134.9,
+        "brand": "THRON"
+    },
+    {
+        "id": 243981,
+        "name": "Пиво Tsingtao Premium Lager светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-tsingtao-premium-lager-sv-47-zhb-243981",
+        "regular_price": 169.0,
+        "promo_price": null,
+        "brand": "TSINGTAO"
+    },
+    {
+        "id": 137404,
+        "name": "Пиво Tsingtao премиум лагер, 0.33л",
+        "url": "https://online.metro-cc.ru/products/033l-pivo-tsingtao-premium-lager-st",
+        "regular_price": 155.0,
+        "promo_price": null,
+        "brand": "TSINGTAO"
+    },
+    {
+        "id": 98846,
+        "name": "Пиво Tuborg Green светлое, 1.35л",
+        "url": "https://online.metro-cc.ru/products/pivo-tuborg-green-pet-135l-98846",
+        "regular_price": 179.0,
+        "promo_price": 164.9,
+        "brand": "TUBORG"
+    },
+    {
+        "id": 58826,
+        "name": "Пиво Velkopopovicky Kozel Rezany, 0.45л",
+        "url": "https://online.metro-cc.ru/products/velkopopovicky-kozel-rezany-zh-b-045-l",
+        "regular_price": 89.9,
+        "promo_price": 83.9,
+        "brand": "VELKOPOPOVICKY KOZEL"
+    },
+    {
+        "id": 58846,
+        "name": "Пиво Velkopopovicky Kozel Rezany, 0.45л",
+        "url": "https://online.metro-cc.ru/products/velkopopovicky-kozel-rezany-svetloe-045-l",
+        "regular_price": 89.9,
+        "promo_price": 83.9,
+        "brand": "VELKOPOPOVICKY KOZEL"
+    },
+    {
+        "id": 32306,
+        "name": "Пиво Velkopopovicky Kozel светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/napitok-velkopopovicky-kozel-svetloe-st-b-045-l",
+        "regular_price": 83.9,
+        "promo_price": null,
+        "brand": "VELKOPOPOVICKY KOZEL"
+    },
+    {
+        "id": 657890,
+        "name": "Пиво Velkopopovicky Kozel светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/velkopopovicky-kozel-svetly-zh-b-045-l-657890",
+        "regular_price": 83.9,
+        "promo_price": null,
+        "brand": "VELKOPOPOVICKY KOZEL"
+    },
+    {
+        "id": 639715,
+        "name": "Пиво Velkopopovicky Kozel светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/kozel-premium-zheleznaya-banka-05-l",
+        "regular_price": 199.0,
+        "promo_price": 189.0,
+        "brand": "VELKOPOPOVICKY KOZEL"
+    },
+    {
+        "id": 640295,
+        "name": "Пиво Warsteiner Premium Beer светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/warsteiner-premium-beer-zheleznaya-banka-05-l",
+        "regular_price": 189.0,
+        "promo_price": 169.0,
+        "brand": "WARSTEINER"
+    },
+    {
+        "id": 262672,
+        "name": "Пиво Weihenstephaner Original Helles, 0.45л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-weihenstephaner-original-helles-st",
+        "regular_price": 219.0,
+        "promo_price": null,
+        "brand": "WEIHENSTEPHANER ORIGINAL"
+    },
+    {
+        "id": 218675,
+        "name": "Пиво Welfbrau Premium Pils светлое фильтрованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-welfbrau-premium-pils-sv-filt-zhb",
+        "regular_price": 162.0,
+        "promo_price": null,
+        "brand": "WELFBRAU"
+    },
+    {
+        "id": 203366,
+        "name": "Пиво Wieninger Export Hell светлое фильтрованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-wieninger-guidobald-export-sv-f-nep-st",
+        "regular_price": 213.0,
+        "promo_price": null,
+        "brand": "WIENINGER"
+    },
+    {
+        "id": 203367,
+        "name": "Пиво Wieninger Weisbier Hell светлое нефильтрованное непастеризованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-wieninger-weisbier-hell-sv-nef-nep-st",
+        "regular_price": 213.0,
+        "promo_price": null,
+        "brand": "WIENINGER"
+    },
+    {
+        "id": 109755,
+        "name": "Пиво Wolpertinger Pilsner, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-wolpertinger-pilsner-zh-b-05-l",
+        "regular_price": 147.0,
+        "promo_price": 139.0,
+        "brand": "WOLPERTINGER"
+    },
+    {
+        "id": 220124,
+        "name": "Пиво Wolpertinger das Traditionelle Helle светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05l-pivo-wolpertinger-traditsionnoe-zhb",
+        "regular_price": 149.0,
+        "promo_price": 139.0,
+        "brand": "WOLPERTINGER"
+    },
+    {
+        "id": 203968,
+        "name": "Пиво Wolpertinger лагер, 5л",
+        "url": "https://online.metro-cc.ru/products/5l-pivo-wolpertinger-lager-zhb",
+        "regular_price": 2099.0,
+        "promo_price": 1999.0,
+        "brand": "WOLPERTINGER"
+    },
+    {
+        "id": 200771,
+        "name": "Пиво Zatecky Gus 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-zhatetskiy-gus-st",
+        "regular_price": 74.9,
+        "promo_price": 69.9,
+        "brand": "ZATECKY GUS"
+    },
+    {
+        "id": 245297,
+        "name": "Пиво Zatecky Gus нефильтрованное, 1.35л",
+        "url": "https://online.metro-cc.ru/products/pivo-zatecky-gus-nefiltrovannoe-135l",
+        "regular_price": 149.0,
+        "promo_price": null,
+        "brand": "ZATECKY GUS"
+    },
+    {
+        "id": 583397,
+        "name": "Пиво Zatecky Gus светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/zhateckij-gus-svetloe-zh-b-045-l",
+        "regular_price": 74.9,
+        "promo_price": 69.9,
+        "brand": "ZATECKY GUS"
+    },
+    {
+        "id": 624731,
+        "name": "Пиво Zatecky Gus светлое, 0.9л",
+        "url": "https://online.metro-cc.ru/products/art-624731",
+        "regular_price": 149.0,
+        "promo_price": 139.0,
+        "brand": "ZATECKY GUS"
+    },
+    {
+        "id": 632717,
+        "name": "Пиво Zatecky Gus светлое, 1.35л",
+        "url": "https://online.metro-cc.ru/products/zatecky-gus-svetloe-pet-135l",
+        "regular_price": 159.0,
+        "promo_price": 147.9,
+        "brand": "ZATECKY GUS"
+    },
+    {
+        "id": 584290,
+        "name": "Пиво Zlata Praha светлое фильтрованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/zlata-praha-v-zheleznoj-banke-05-l",
+        "regular_price": 162.0,
+        "promo_price": null,
+        "brand": "ZLATA PRAHA"
+    },
+    {
+        "id": 242646,
+        "name": "Пиво Zotler Bayerisch Hell светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-zotler-bayerisch-hell-svetloe-05l",
+        "regular_price": 399.0,
+        "promo_price": 299.0,
+        "brand": "ZOTLER"
+    },
+    {
+        "id": 262538,
+        "name": "Пиво Арсенальное крепкое, 1.2л",
+        "url": "https://online.metro-cc.ru/products/12l-pivo-arsenalnoe-krepkoe-pet-262538",
+        "regular_price": 159.0,
+        "promo_price": 134.9,
+        "brand": "АРСЕНАЛЬНОЕ"
+    },
+    {
+        "id": 270163,
+        "name": "Пиво Арсенальное традиционное светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-arsenalnoe-traditsionnoe-sv-st-270163",
+        "regular_price": 59.9,
+        "promo_price": null,
+        "brand": "АРСЕНАЛЬНОЕ"
+    },
+    {
+        "id": 262534,
+        "name": "Пиво Арсенальное традиционное светлое, 1.2л",
+        "url": "https://online.metro-cc.ru/products/12l-pivo-arsenalnoe-traditsionnoe-sv-pet-262534",
+        "regular_price": 149.0,
+        "promo_price": 127.9,
+        "brand": "АРСЕНАЛЬНОЕ"
+    },
+    {
+        "id": 113816,
+        "name": "Пиво Афанасий Марочное избранное светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/05-l-pivo-afanasij-marochnoe-izbr-sv",
+        "regular_price": 145.0,
+        "promo_price": null,
+        "brand": "АФАНАСИЙ"
+    },
+    {
+        "id": 483564,
+        "name": "Пиво Афанасий нефильтрованное, 1л",
+        "url": "https://online.metro-cc.ru/products/afanasij-nefiltrovannoe-1l",
+        "regular_price": 159.0,
+        "promo_price": null,
+        "brand": "АФАНАСИЙ"
+    },
+    {
+        "id": 137341,
+        "name": "Пиво Балтика Lav, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-lav-baltika-zhb-137341",
+        "regular_price": 60.9,
+        "promo_price": 57.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 137332,
+        "name": "Пиво Балтика Дон южный рецепт, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-don-yuzhnyy-retsept-baltika-zhb-137332",
+        "regular_price": 67.9,
+        "promo_price": null,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 258602,
+        "name": "Пиво Балтика Кулер светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-baltika-kuler-sv-zhb-258602",
+        "regular_price": 59.9,
+        "promo_price": null,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 583401,
+        "name": "Пиво Балтика №3 Классическое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/baltika-3-klassicheskoe-zhestyanaya-banka-045-l-583401",
+        "regular_price": 63.9,
+        "promo_price": 59.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 579055,
+        "name": "Пиво Балтика №3 Классическое, 0.45л x 24 шт",
+        "url": "https://online.metro-cc.ru/products/baltika-3-klassicheskoe-zhestyanaya-banka-045-l",
+        "regular_price": 1533.6,
+        "promo_price": 1437.6,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 596862,
+        "name": "Пиво Балтика №3 Классическое, 0.9л",
+        "url": "https://online.metro-cc.ru/products/art-596862",
+        "regular_price": 119.0,
+        "promo_price": null,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 234969,
+        "name": "Пиво Балтика №3 классическое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-baltika-3-klassicheskoe-05l",
+        "regular_price": 66.9,
+        "promo_price": 59.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 113674,
+        "name": "Пиво Балтика №3, 1.3л",
+        "url": "https://online.metro-cc.ru/products/13l-pivo-baltika-3-pet",
+        "regular_price": 139.0,
+        "promo_price": 129.0,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 75168,
+        "name": "Пиво Балтика №7 Мягкое, 0.44л",
+        "url": "https://online.metro-cc.ru/products/myagkoe-7-v-stekle-baltika-044-l",
+        "regular_price": 71.9,
+        "promo_price": 62.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 75169,
+        "name": "Пиво Балтика №7 Мягкое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/myagkoe-7-v-zhestyanoj-banke-baltika-045-l",
+        "regular_price": 71.9,
+        "promo_price": 62.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 113803,
+        "name": "Пиво Балтика №7 Мягкое, 0.95л",
+        "url": "https://online.metro-cc.ru/products/pivo-myagkoe-baltika-7-pet-095-l-113803",
+        "regular_price": 125.0,
+        "promo_price": 114.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 581885,
+        "name": "Пиво Балтика №7 Экспортное, 0.45л",
+        "url": "https://online.metro-cc.ru/products/baltika-7-eksportnoe-zh-b-045-l",
+        "regular_price": 72.9,
+        "promo_price": 64.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 579060,
+        "name": "Пиво Балтика №7 Экспортное, 0.45л x 24 шт",
+        "url": "https://online.metro-cc.ru/products/baltika-7-eksportnoe-zh-b-045-l-579060",
+        "regular_price": 1749.6,
+        "promo_price": 1557.6,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 596852,
+        "name": "Пиво Балтика №7 Экспортное, 0.9л",
+        "url": "https://online.metro-cc.ru/products/baltika-7-v-zheleznoj-banke-05-l",
+        "regular_price": 139.0,
+        "promo_price": null,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 245299,
+        "name": "Пиво Балтика №7 экспортное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/pivo-baltika-7-eksportnoe-05l",
+        "regular_price": 79.9,
+        "promo_price": 64.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 271067,
+        "name": "Пиво Балтика №9 крепкое легендарное, 1.2л",
+        "url": "https://online.metro-cc.ru/products/12l-pivo-baltika-9-krepkoe-legendarnoe-pet-271067",
+        "regular_price": 159.0,
+        "promo_price": 139.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 583396,
+        "name": "Пиво Балтика №9 крепкое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/baltika-9-krepkoe-v-zheleznoj-banke-045-l",
+        "regular_price": 69.9,
+        "promo_price": 64.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 113679,
+        "name": "Пиво Балтика №9, 1.3л",
+        "url": "https://online.metro-cc.ru/products/13l-pivo-baltika-9-pet",
+        "regular_price": 149.0,
+        "promo_price": 139.0,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 217836,
+        "name": "Пиво Белый медведь крепкое, 1.15л",
+        "url": "https://online.metro-cc.ru/products/115l-pivo-belyy-medved-krepkoe-pet",
+        "regular_price": 139.0,
+        "promo_price": null,
+        "brand": "БЕЛЫЙ МЕДВЕДЬ"
+    },
+    {
+        "id": 217869,
+        "name": "Пиво Белый медведь светлое, 1.15л",
+        "url": "https://online.metro-cc.ru/products/115l-pivo-belyy-medved-svetloe-pet",
+        "regular_price": 119.0,
+        "promo_price": null,
+        "brand": "БЕЛЫЙ МЕДВЕДЬ"
+    },
+    {
+        "id": 229720,
+        "name": "Пиво Бочкарев живой розлив, 0.43л",
+        "url": "https://online.metro-cc.ru/products/043l-pivo-bochkarev-zhivoy-rozliv-st-229720",
+        "regular_price": 57.9,
+        "promo_price": null,
+        "brand": "БОЧКАРЕВ"
+    },
+    {
+        "id": 229723,
+        "name": "Пиво Бочкарев холод и солод, 0.43л",
+        "url": "https://online.metro-cc.ru/products/043l-pivo-bochkarev-holod-i-solod-st-229723",
+        "regular_price": 57.9,
+        "promo_price": null,
+        "brand": "БОЧКАРЕВ"
+    },
+    {
+        "id": 618216,
+        "name": "Пиво Волковская пивоварня Светлячок, 0.45л",
+        "url": "https://online.metro-cc.ru/products/volkovskaya-pivovarnya-svetlyachok-045-l-618216",
+        "regular_price": 99.9,
+        "promo_price": 79.9,
+        "brand": "ВОЛКОВСКАЯ ПИВОВАРНЯ"
+    },
+    {
+        "id": 247772,
+        "name": "Пиво Время качества светлое, 1.15л",
+        "url": "https://online.metro-cc.ru/products/115l-pivo-vremya-kachestva-svetloe-pet-247772",
+        "regular_price": 129.0,
+        "promo_price": null,
+        "brand": "ВРЕМЯ КАЧЕСТВА"
+    },
+    {
+        "id": 98556,
+        "name": "Пиво Горьковская пивоварня American Amber Lager, 0.44л",
+        "url": "https://online.metro-cc.ru/products/pivo-gorkovskaya-pivovarnya-american-amber-lager-044-l",
+        "regular_price": 99.9,
+        "promo_price": null,
+        "brand": "ГОРЬКОВСКАЯ ПИВОВАРНЯ"
+    },
+    {
+        "id": 253683,
+        "name": "Пиво Горьковское особое, 1.2л",
+        "url": "https://online.metro-cc.ru/products/pivo-gorkovskoe-osoboe-12l",
+        "regular_price": 135.0,
+        "promo_price": null,
+        "brand": "ГОРЬКОВСКОЕ"
+    },
+    {
+        "id": 128051,
+        "name": "Пиво Дон Южный Рецепт светлое, 1.2л",
+        "url": "https://online.metro-cc.ru/products/don-yuzhnyj-recept-svetloe-12l",
+        "regular_price": 139.0,
+        "promo_price": 127.9,
+        "brand": "ДОН"
+    },
+    {
+        "id": 217834,
+        "name": "Пиво Жигулевское бочковое светлое, 1.15л",
+        "url": "https://online.metro-cc.ru/products/115l-pivo-zhigulevskoe-bochkovoe-svetloe-pet",
+        "regular_price": 149.0,
+        "promo_price": null,
+        "brand": "ЖИГУЛЕВСКОЕ"
+    },
+    {
+        "id": 109690,
+        "name": "Пиво Жигулевское высший сорт, 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-zhigulevskoe-vysshij-sort-zh-b-045-l-109690",
+        "regular_price": 48.9,
+        "promo_price": 46.9,
+        "brand": "ЖИГУЛЕВСКОЕ"
+    },
+    {
+        "id": 219297,
+        "name": "Пиво Жигулевское специальное, 0.44л",
+        "url": "https://online.metro-cc.ru/products/044l-pivo-zhigulevskoe-spetsialnoe-st",
+        "regular_price": 49.9,
+        "promo_price": null,
+        "brand": "ЖИГУЛЕВСКОЕ"
+    },
+    {
+        "id": 65165,
+        "name": "Пиво Жигули Барное Пшеничное, 0.45л",
+        "url": "https://online.metro-cc.ru/products/zhiguli-barnoe-pshenichnoe-steklo-045-l",
+        "regular_price": 69.9,
+        "promo_price": 61.9,
+        "brand": "ЖИГУЛИ БАРНОЕ"
+    },
+    {
+        "id": 638268,
+        "name": "Пиво Жигули Барное светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/zhiguli-barnoe-moskovskaya-pivovarennaya-kompaniya-zheleznaya-banka-045-l",
+        "regular_price": 67.9,
+        "promo_price": 59.9,
+        "brand": "ЖИГУЛИ БАРНОЕ"
+    },
+    {
+        "id": 132877,
+        "name": "Пиво Жигули барное, 0.9л",
+        "url": "https://online.metro-cc.ru/products/pivo-zhiguli-barnoe-09l",
+        "regular_price": 159.0,
+        "promo_price": null,
+        "brand": "ЖИГУЛИ"
+    },
+    {
+        "id": 596251,
+        "name": "Пиво Золотая Бочка Классическое светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/zolotaya-bochka-klassicheskoe-svetloe-zh-b-045-l",
+        "regular_price": 73.9,
+        "promo_price": 57.9,
+        "brand": "ЗОЛОТАЯ БОЧКА"
+    },
+    {
+        "id": 596253,
+        "name": "Пиво Золотая Бочка светлое фильтрованное, 0.45л",
+        "url": "https://online.metro-cc.ru/products/zolotaya-bochka-svetloe-v-zheleznoj-banke-045-l",
+        "regular_price": 73.9,
+        "promo_price": 57.9,
+        "brand": "ЗОЛОТАЯ БОЧКА"
+    },
+    {
+        "id": 75790,
+        "name": "Пиво Клинское 0.45л",
+        "url": "https://online.metro-cc.ru/products/klinskoe-v-stekle-045-l",
+        "regular_price": 69.9,
+        "promo_price": 62.9,
+        "brand": "КЛИНСКОЕ"
+    },
+    {
+        "id": 217842,
+        "name": "Пиво Клинское светлое, 1.15л",
+        "url": "https://online.metro-cc.ru/products/115l-pivo-klinskoe-svetloe-pet",
+        "regular_price": 159.0,
+        "promo_price": null,
+        "brand": "КЛИНСКОЕ"
+    },
+    {
+        "id": 123201,
+        "name": "Пиво Охота Крепкое светлое, 0.43л",
+        "url": "https://online.metro-cc.ru/products/043-l-ohota-krepkoe-zh-b",
+        "regular_price": 64.9,
+        "promo_price": null,
+        "brand": "ОХОТА"
+    },
+    {
+        "id": 585708,
+        "name": "Пиво Охота Крепкое светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/ohota-svetloe-krepkoe-pasterizovannoe-81-st-b-045-l",
+        "regular_price": 64.9,
+        "promo_price": null,
+        "brand": "ОХОТА"
+    },
+    {
+        "id": 247324,
+        "name": "Пиво Охота крепкое, 1.2л",
+        "url": "https://online.metro-cc.ru/products/pivo-ohota-krepkoe12l",
+        "regular_price": 149.0,
+        "promo_price": 132.9,
+        "brand": "ОХОТА"
+    },
+    {
+        "id": 75789,
+        "name": "Пиво Сибирская Корона Классическое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/klassicheskoe-v-stekle-sibirskaya-korona-045-l",
+        "regular_price": 82.9,
+        "promo_price": null,
+        "brand": "СИБИРСКАЯ КОРОНА"
+    },
+    {
+        "id": 31131,
+        "name": "Пиво Старый Мельник из Бочонка Мягкое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/staryj-melnik-iz-bochonka-myagkoe-svetloe-st-b-045-l",
+        "regular_price": 77.9,
+        "promo_price": 67.9,
+        "brand": "СТАРЫЙ МЕЛЬНИК"
+    },
+    {
+        "id": 58806,
+        "name": "Пиво Старый Мельник из Бочонка светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/staryj-melnik-iz-bochonka-svetloe-st-b-045-l",
+        "regular_price": 77.9,
+        "promo_price": 67.9,
+        "brand": "СТАРЫЙ МЕЛЬНИК"
+    },
+    {
+        "id": 247775,
+        "name": "Пиво Старый Мельник из бочонка мягкое, 0.9л",
+        "url": "https://online.metro-cc.ru/products/09l-pivo-staryy-melnik-iz-bochonka-myagkoe-pet-247775",
+        "regular_price": 109.0,
+        "promo_price": null,
+        "brand": "СТАРЫЙ МЕЛЬНИК"
+    },
+    {
+        "id": 247326,
+        "name": "Пиво Три медведя светлое, 1.2л",
+        "url": "https://online.metro-cc.ru/products/pivo-tri-medvedya-svetloe-12l",
+        "regular_price": 149.0,
+        "promo_price": 109.9,
+        "brand": "ТРИ МЕДВЕДЯ"
+    },
+    {
+        "id": 136834,
+        "name": "Пиво Хамовники Венское, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-hamovniki-venskoe-zhb",
+        "regular_price": 75.9,
+        "promo_price": null,
+        "brand": "ХАМОВНИКИ"
+    },
+    {
+        "id": 136835,
+        "name": "Пиво Хамовники Пильзенское, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-hamovniki-pilzenskoe-zhb",
+        "regular_price": 75.9,
+        "promo_price": null,
+        "brand": "ХАМОВНИКИ"
+    },
+    {
+        "id": 212988,
+        "name": "Пиво Хамовники Пильзенское, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-hamovniki-pilzenskoe-st",
+        "regular_price": 75.9,
+        "promo_price": null,
+        "brand": "ХАМОВНИКИ"
+    },
+    {
+        "id": 243975,
+        "name": "Пиво Хатэ-Тайм светлое, 0.95л",
+        "url": "https://online.metro-cc.ru/products/095l-pivo-hate-taym-sv-33-zhb-243975",
+        "regular_price": 329.0,
+        "promo_price": null,
+        "brand": "ХАТЭ-ТАЙМ"
+    },
+    {
+        "id": 206339,
+        "name": "Пиво Чуанлан светлое, 1л",
+        "url": "https://online.metro-cc.ru/products/1l-pivo-chuanlan-svetloe-zhb",
+        "regular_price": 399.0,
+        "promo_price": null,
+        "brand": "ЧУАНЛАН"
+    },
+    {
+        "id": 129678,
+        "name": "Пиво Ярпиво Паровое светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/parovoe-svetloe-045-l",
+        "regular_price": 66.9,
+        "promo_price": null,
+        "brand": "ЯРПИВО"
+    },
+    {
+        "id": 116845,
+        "name": "Пиво светлое Abk Hell, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-abk-hell-steklo-05-l-116845",
+        "regular_price": 249.0,
+        "promo_price": null,
+        "brand": "ABK"
+    },
+    {
+        "id": 564854,
+        "name": "Пиво Bayreuther Hell светлое фильтрованное, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-bayreuther-hell-pshenichnoe-steklo-05-l",
+        "regular_price": 249.0,
+        "promo_price": null,
+        "brand": "BAYREUTHER HELL"
+    },
+    {
+        "id": 271063,
+        "name": "Пиво Greenbeat 1.2л",
+        "url": "https://online.metro-cc.ru/products/12l-pivo-greenbeat-pet-271063",
+        "regular_price": 159.0,
+        "promo_price": 139.9,
+        "brand": "GREENBEAT"
+    },
+    {
+        "id": 213482,
+        "name": "Пиво Holsten Pilsner светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-holsten-pilzner-svetloe-zhb",
+        "regular_price": 84.9,
+        "promo_price": 74.9,
+        "brand": "HOLSTEN"
+    },
+    {
+        "id": 247933,
+        "name": "Пиво Krusovice Velvet, 0.43л",
+        "url": "https://online.metro-cc.ru/products/043l-pivo-krushovitse-velvet-zhb-247933",
+        "regular_price": 79.9,
+        "promo_price": 70.9,
+        "brand": "KRUSOVICE"
+    },
+    {
+        "id": 271064,
+        "name": "Пиво Lavbeer светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-lavbeer-svetloe-zhb-271064",
+        "regular_price": 65.9,
+        "promo_price": 59.9,
+        "brand": "LAVBEER"
+    },
+    {
+        "id": 271065,
+        "name": "Пиво Lavbeer светлое, 1.1л",
+        "url": "https://online.metro-cc.ru/products/11l-pivo-lavbeer-svetloe-pet-271065",
+        "regular_price": 109.0,
+        "promo_price": 96.9,
+        "brand": "LAVBEER"
+    },
+    {
+        "id": 601178,
+        "name": "Пиво Original Landbier Zwickl светлое, 0.5л",
+        "url": "https://online.metro-cc.ru/products/aktien-zwickl-kellerbier-original-polutemnoe-v-steklyannoj-butylke-05-l",
+        "regular_price": 289.0,
+        "promo_price": null,
+        "brand": "LANDBIER"
+    },
+    {
+        "id": 247505,
+        "name": "Пиво Zatecky Gus нефильтрованное, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-zatecky-gus-nefiltr-zhb-247505",
+        "regular_price": 79.9,
+        "promo_price": null,
+        "brand": "ZATECKY GUS"
+    },
+    {
+        "id": 134863,
+        "name": "Пиво Zubr Classic, 0.5л",
+        "url": "https://online.metro-cc.ru/products/svetloe-filtrovannoe-klassik-05-l",
+        "regular_price": 185.0,
+        "promo_price": null,
+        "brand": "ZUBR"
+    },
+    {
+        "id": 271066,
+        "name": "Пиво Балтика №9 крепкое легендарное, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-baltika-9-krepkoe-legendarnoe-zhb-271066",
+        "regular_price": 73.9,
+        "promo_price": 64.9,
+        "brand": "БАЛТИКА"
+    },
+    {
+        "id": 40924,
+        "name": "Пиво Дон Живое светлое, 1л",
+        "url": "https://online.metro-cc.ru/products/don-zhivoe-nepasterizovannoe-pet-1l",
+        "regular_price": 139.0,
+        "promo_price": null,
+        "brand": "ДОН"
+    },
+    {
+        "id": 135090,
+        "name": "Пиво Жигули 1968 светлое, 0.43л",
+        "url": "https://online.metro-cc.ru/products/zhiguli-1968-svetloe-043-l",
+        "regular_price": 67.9,
+        "promo_price": 59.9,
+        "brand": "ЖИГУЛИ"
+    },
+    {
+        "id": 75060,
+        "name": "Пиво Жигули Export светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/art-75060",
+        "regular_price": 66.9,
+        "promo_price": 59.9,
+        "brand": "ЖИГУЛИ"
+    },
+    {
+        "id": 112156,
+        "name": "Пиво Жигули Барное светлое, 0.45л",
+        "url": "https://online.metro-cc.ru/products/pivo-zhiguli-barnoe-pshenichnoe-svetloe-45-045-l",
+        "regular_price": 67.9,
+        "promo_price": 59.9,
+        "brand": "ЖИГУЛИ БАРНОЕ"
+    },
+    {
+        "id": 136833,
+        "name": "Пиво Жигули Экспорт, 0.45л",
+        "url": "https://online.metro-cc.ru/products/045l-pivo-zhiguli-eksport-but",
+        "regular_price": 67.9,
+        "promo_price": 59.9,
+        "brand": "ЖИГУЛИ"
+    }
+]
